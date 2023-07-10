@@ -6,7 +6,7 @@
 /* Header Section_01 Style Starting */
 .section_01{
     background-color: #fdeef1;
-    height: 713px;
+    height: 711px;
     padding: 20px;
 }
 .section_01_flex{
@@ -33,6 +33,7 @@
     padding: 10px;
     font-size: 20px;
     background-color: #E55473;
+    color: white;
     border: 0;
     border-radius: 5px;
 }
@@ -45,6 +46,157 @@
 
 
 
+/* Main Section Style Start */
+
+
+/* Section_02 Style Start */
+.section_02{
+    height: 750px;
+    margin-top: 100px;
+}
+.div_01{
+    display: flex;
+    justify-content: center;
+}
+.section_02content{
+    text-align: center;
+}
+.section_02content>h1{
+    font-size: 35px;
+    
+}
+.section_02content>p{
+    width: 560px;
+    margin-top: 21px;
+    opacity: 0.5;
+    line-height: 25px;
+}
+.f01>img{
+    height: 315px;
+    width: 265px;
+    padding-top: 105px;
+}
+.f02>img{
+    height: 315px;
+    width: 265px;
+    padding-top: 105px;
+}
+.f03>img{
+    height: 315px;
+    width: 265px;
+    padding-top: 105px;
+}
+.flower_div{
+    display: flex;
+    justify-content: space-around;
+    width: 1030px;
+    margin-top: 100px;
+}
+.f01{
+    /* background-color: #E55473; */
+    text-align: center;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    height: 420px;
+    width: 328px;
+}
+.f02{
+    /* background-color: #E55473; */
+    text-align: center;
+    border-radius: 300px 300px 0px 0px;
+    background: #DAF0F1;
+    height: 420px;
+    width: 328px;
+}
+.f03{
+    /* background-color: #E55473; */
+    text-align: center;
+    border-radius: 300px 300px 0px 0px;
+    background:#E4ECDC;
+    height: 420px;
+    width: 328px;
+}
+.f01>a{
+    margin-top: 10px;
+    display: block;
+    font-size: 19px;
+    font-weight: 700;
+    color: black;
+}
+.f02>a{
+    margin-top: 10px;
+    display: block;
+    font-size: 19px;
+    font-weight: 700;
+    color: black;
+}
+.f03>a{
+    margin-top: 10px;
+    display: block;
+    font-size: 19px;
+    font-weight: 700;
+    color: black;
+}
+
+/* Section_02 Style Ending */
+/* Section_06 Style Start */
+.section_06{
+    height: 600px;
+}
+.sub_section_06{
+    background-image: url('image/Rectangle\ 9.png');
+    height: 550px;
+    background-size: 1227px 440px;
+    margin-top: 100px;
+    margin-left: 60px;
+    width: 95%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.section_06_border{
+    border: 4px solid #E55473;
+    height: 435px;
+    margin-left: 103px;
+    width: 84.88%;
+}
+.sub_section_06 h1{
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 10px;
+    padding-top: 110px;
+    margin-bottom: 20px;
+}
+.sub_section_06 p{
+    opacity: 0.5;
+    font-weight: 600;
+}
+.sub_section_06 .section_06_input{
+    width: 470px;
+    height: 30px;
+    padding: 10px;
+    margin-top: 63px;
+    border: 0;
+    border-radius: 5px;
+}
+.sub_section_06 .section_06_bttn{
+    background-color: #E55473;
+    color: white;
+    font-size: 15px;
+    padding: 15px;
+    margin-left: 10px;
+    margin-top: 63px;
+    border: 0;
+    border-radius: 5px;
+}
+/* Section_06 Style Ending */
+
+
+
+/* Main section style Ending */
+
+
+
 /* Footer Section_01 Style Starting */
 .footer{
     background-color: black;
@@ -52,9 +204,6 @@
     height: 449px;
     position: absolute;
     text-align: center;
-}
-.foot_div{
-    margin-top: 0%;
 }
 .footer>h1{
     color: white;
