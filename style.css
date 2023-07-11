@@ -15,10 +15,11 @@
     align-items: center;
 }
 .written_section{
-    width: 450px;
+    width: 470px;
+    margin-left: 70px;
 }
 .written_section>h1{
-    font-size: 45px;
+    font-size: 60px;
     font-weight: 900;
 }
 .written_section p{
@@ -38,7 +39,7 @@
     border-radius: 5px;
 }
 .flower_section>img{
-    width: 515px;
+    width: 475px;
     height: 718px;
     margin-top: 12px;
 }
@@ -62,7 +63,8 @@
     text-align: center;
 }
 .section_02content>h1{
-    font-size: 35px;
+    font-size: 40px;
+    font-weight: 900;
     
 }
 .section_02content>p{
@@ -220,7 +222,8 @@
     text-align: center;
 }
 .section_05content>h1{
-    font-size: 35px;
+    font-size: 40px;
+    font-weight: 900;
     
 }
 .section_05content>p{
